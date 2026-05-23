@@ -1,9 +1,9 @@
 # Lagos Traffic & Commute Pattern Study
 
-A statistical evidence study of Lagos road network performance — built to provide data-driven justification for infrastructure spending decisions before committing billions of naira.
+A statistical evidence study of Lagos road network performance, built to provide data-driven justification for infrastructure spending decisions before committing billions of naira.
 
 ## Problem
-The Lagos State government wants to know which roads are worst at what times, how weather affects congestion, and whether BRT expansion actually reduced travel times — **before** spending ₦50 billion on new infrastructure.
+The Lagos State government wants to know which roads are worst at what times, how weather affects congestion, and whether BRT expansion actually reduced travel times, **before** spending ₦50 billion on new infrastructure.
 
 ## Quick Start
 
@@ -44,8 +44,8 @@ python src/analysis/main.py
 - `lane_count` → weakest correlation (lanes ≠ less congestion)
 
 ## Output Charts
-- `reports/charts/commute_heatmap.png` — Road × Hour heatmap
-- `reports/charts/rainfall_effect.png` — Rain category vs commute time
+- `reports/charts/commute_heatmap.png`, Road × Hour heatmap
+- `reports/charts/rainfall_effect.png`, Rain category vs commute time
 
 ## Real Impact
 Evidence-based infrastructure spending. Roads that actually matter, backed by statistics not politics.
